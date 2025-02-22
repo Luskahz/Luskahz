@@ -1,8 +1,9 @@
 ---
 
 # Lucas Alves de Melo Lins
-
-👋 Olá, sou estudante de **Desenvolvimento de Software** no **IFSP Caraguatatuba**, com 19 anos e apaixonado por tecnologia! 🌱  
+<aside>
+   
+   👋 Olá, sou estudante de **Desenvolvimento de Software** no **IFSP Caraguatatuba**, com 19 anos e apaixonado por tecnologia! 🌱  
 Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilidades em **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL** e **Lógica de Programação**. Também tenho experiência com **C** e estou sempre em busca de novos desafios e aprendizados.
 
 <p align="left">
@@ -15,11 +16,14 @@ Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilid
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
 
+</aside>
 
-<a href="https://github.com/Luskahz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=10&title_color=d0d0d0&text_color=ffffff&icon_color=d0d0d0&bg_color=242424&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Linguages" /></a>
-
+<aside>
    
-</div>
+   <a href="https://github.com/Luskahz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?      username=Luskahz&langs_count=10&title_color=d0d0d0&text_color=ffffff&icon_color=d0d0d0&bg_color=242424&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Linguages" /></a>
+   
+</aside>
+
 
 ### 💻 **Ferramentas e IDEs**
 <p align="left">
