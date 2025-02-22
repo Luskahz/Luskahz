@@ -1,9 +1,8 @@
 ---
 
-# Lucas Alves de Melo Lins <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36" height="36" alt="VS Code" />
-</a>
+| ![Lucas Alves de Melo Lins](https://via.placeholder.com/150) | ![VS Code](https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000) | ![NetBeans](https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000) |
+| --- | --- | --- |
+| Lucas Alves de Melo Lins | [VS Code](https://code.visualstudio.com/) | [NetBeans](https://netbeans.apache.org/) |
 
 
 👋 Olá, sou estudante de <strong>Desenvolvimento de Software</strong> no <strong>IFSP Caraguatatuba</strong>, com 19 anos e apaixonado por tecnologia! 🌱  
