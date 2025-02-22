@@ -1,3 +1,5 @@
+---
+
 # Lucas Alves de Melo Lins
 
 👋 Olá, sou estudante de **Desenvolvimento de Software** no **IFSP Caraguatatuba**, com 19 anos e apaixonado por tecnologia! 🌱  
@@ -25,9 +27,11 @@ Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilid
 
 ### 📫 **Contato**
 <p align="left">
-<a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
-<a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
-<a href="https://www.twitter.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
-<a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
-<a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
+<a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" /></a>
+<a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
 </p>
+
+---
