@@ -20,7 +20,7 @@ Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar m
    
 ---
 
-### 💻 IDEs**
+### 💻 **IDEs**
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36" height="36" alt="VS Code" />
