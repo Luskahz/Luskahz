@@ -6,7 +6,7 @@
 
    <aside>
 👋 Olá, sou estudante de <strong>Desenvolvimento de Software</strong> no <strong>IFSP Caraguatatuba</strong>, com 19 anos e apaixonado por tecnologia! 🌱  
-Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar minhas habilidades em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong> e <strong>Lógica de Programação</strong>. Também estou me desenvolvendo em <strong>C</strong> e estou sempre buscando novas linguagens
+Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar minhas habilidades em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong> e <strong>Lógica de Programação</strong>. Também estou me desenvolvendo em <strong>C</strong> e estou sempre buscando novos desafios e aprendizagens
 
    
    <p align="left">
