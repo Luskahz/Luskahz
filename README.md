@@ -24,7 +24,6 @@
 
 
 
-
 ### 💻 **Ferramentas e IDEs**
 <p align="left">
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
