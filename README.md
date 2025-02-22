@@ -29,14 +29,10 @@ Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar m
 </p>
 
 ---
-# |!-- --> | !-- -->| 
-   | --- | --- |
-| [![Nome](#Lucas Alves de Melo Lins) | [![contatos](<p align="left">
-<a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" /></a>
-<a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
-</p>)
+| <!-- --> | <!-- --> |
+| --- | --- |
+| [![Nome](https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=10&title_color=d0d0d0&text_color=ffffff&icon_color=d0d0d0&bg_color=242424&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/Luskahz) | <p align="left"><a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a><a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a><a href="mailto:seuemail@email.com" targe
+
 
 
 
