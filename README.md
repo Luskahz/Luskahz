@@ -32,4 +32,5 @@ Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades e
 <a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" /></a>
 <a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
 </p>
+
 ---
