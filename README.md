@@ -3,14 +3,6 @@
 Olá, sou estudante de **Desenvolvimento de Software** no **IFSP Caraguatatuba**, com 19 anos e apaixonado por tecnologia e programação! 🌱  
 Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades em **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL** e **Lógica de Programação**. Tenho também experiência com **C** e estou sempre em busca de novos desafios.
 
-## 📫 **Entre em contato comigo** 
-- ✉️ E-mail: [seuemail@email.com](mailto:seuemail@email.com)
-- 🌍 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
-- 🐦 Twitter: [twitter.com/seuperfil](https://twitter.com/seuperfil)
-
-## 🚀 **Tecnologias e Ferramentas**
-
-### 📜 **Linguagens**
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -20,6 +12,13 @@ Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades e
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
+
+## 📫 **Entre em contato comigo** 
+- ✉️ E-mail: [seuemail@email.com](mailto:seuemail@email.com)
+- 🌍 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
+- 🐦 Twitter: [twitter.com/seuperfil](https://twitter.com/seuperfil)
+
+## 🚀 **Tecnologias e Ferramentas**
 
 ### 🛠️ **Ferramentas e IDEs**
 <p align="left">
@@ -42,5 +41,3 @@ Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades e
 </p>
 
 ---
-
-Com essas mudanças, o perfil fica mais fluido e também inclui uma linguagem mais acolhedora e personalizada. O que você acha dessas alterações? Posso ajudar com mais algum ajuste?
