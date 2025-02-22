@@ -3,11 +3,6 @@
 👋 Olá, sou estudante de **Desenvolvimento de Software** no **IFSP Caraguatatuba**, com 19 anos e apaixonado por tecnologia! 🌱  
 Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilidades em **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL** e **Lógica de Programação**. Também tenho experiência com **C** e estou sempre em busca de novos desafios e aprendizados.
 
-### 🚀 **Interesses**
-- **Desenvolvimento Web**: Criar soluções simples e eficientes para a web.
-- **Inteligência Artificial**: Explorar a aplicação de IA em soluções tecnológicas.
-- **Automação**: Automatizar processos e otimizar fluxos de trabalho com tecnologia.
-
 <p align="left">
 <a href="https://www.java.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -30,13 +25,9 @@ Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilid
 
 ### 📫 **Contato**
 <p align="left">
-<a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
-<a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" /></a>
-<a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
+<a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
+<a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
+<a href="https://www.twitter.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
+<a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
+<a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" style="filter: invert(33%) sepia(91%) saturate(749%) hue-rotate(350deg) brightness(90%) contrast(95%)" /></a>
 </p>
-
----
-
-Gostou dessas sugestões de personalização? Se quiser ajustar mais alguma coisa ou adicionar novas informações, é só avisar!
