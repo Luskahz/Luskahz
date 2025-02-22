@@ -15,12 +15,12 @@ Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilid
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
 
-<br>
-<div style="width: 200px;">
+
+
 <a href="https://github.com/Vitorram/github-readme-stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8" alt="Top Langs" />
 </a>
-</div>
+
    
 </div>
 
