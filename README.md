@@ -17,8 +17,8 @@ Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilid
 
 
 
-<a href="https://github.com/Vitorram/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vitorram&langs_count=8" alt="Top Langs" />
+<a href="https://github.com/Luskahz/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=8" alt="Top Langs" />
 </a>
 
    
