@@ -1,7 +1,7 @@
 # Lucas Alves de Melo Lins
 
-I'm a **Software Development** student at **IFSP Caraguatatuba**, passionate about tech and coding! 🚀 I'm **19**, from **Brazil**, and always eager to learn new technologies.
-Currently, I'm focused on **Java** while sharpening my skills in **HTML, CSS, JavaScript, and logic programming**. I also have experience with **C** and love exploring new challenges!
+<p>I'm a **Software Development** student at **IFSP Caraguatatuba**, passionate about tech and coding! 🚀 I'm **19**, from **Brazil**, and always eager to learn new technologies.
+Currently, I'm focused on **Java** while sharpening my skills in **HTML, CSS, JavaScript, and logic programming**. I also have experience with **C** and love exploring new challenges!</p>
 ---
 
 📫 **Entre em contato comigo** 
