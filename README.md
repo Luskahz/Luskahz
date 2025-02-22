@@ -37,13 +37,13 @@ Atualmente, estou focado no aprendizado de **Java** e aprimorando meus conhecime
 
 ## 🌍 Redes Sociais
 <p align="left">
-<a href="https://github.com/seuperfil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-<a href="https://www.instagram.com/seuperfil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-<a href="https://www.twitter.com/seuperfil" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+<a href="https://github.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+<a href="https://www.instagram.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.twitter.com/Luskahz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
 </p>
 
 ## 📊 Estatísticas do GitHub
-<a href="https://github.com/seuperfil" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" alt="Top Languages" /></a>
+<a href="https://github.com/Luskahz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seuperfil&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=pt-br&custom_title=Linguagens%20Mais%20Usadas" alt="Top Languages" /></a>
 
 ---
 Fique à vontade para explorar meus repositórios e acompanhar minha jornada! 🚀
