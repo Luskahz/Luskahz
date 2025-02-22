@@ -2,7 +2,9 @@
 
 <p>I'm a **Software Development** student at **IFSP Caraguatatuba**, passionate about tech and coding! 🚀 I'm **19**, from **Brazil**, and always eager to learn new technologies.
 Currently, I'm focused on **Java** while sharpening my skills in **HTML, CSS, JavaScript, and logic programming**. I also have experience with **C** and love exploring new challenges!</p>
+
 ---
+
 📫 **Entre em contato comigo** 
 - ✉️ E-mail: [seuemail@email.com](mailto:seuemail@email.com)
 - 🌍 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)
