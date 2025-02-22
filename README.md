@@ -1,7 +1,6 @@
 ---
 
-# Lucas Alves de Melo Lins [![VS Code](https://img.icons8.com/?size=50&id=9OGIyU8hrxW5&format=png&color=000000)](https://code.visualstudio.com/) [![NetBeans](https://img.icons8.com/?size=50&id=4djt356tq8UO&format=png&color=000000)](https://netbeans.apache.org/) 
-
+# Lucas Alves de Melo Lins
 👋 Olá, sou estudante de <strong>Desenvolvimento de Software</strong> no <strong>IFSP Caraguatatuba</strong>, com 19 anos e apaixonado por tecnologia! 🌱  
 Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar minhas habilidades em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong> e <strong>Lógica de Programação</strong>. Também estou me desenvolvendo em <strong>C</strong> e estou sempre buscando novos desafios e aprendizagens
 
@@ -20,6 +19,16 @@ Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar m
    </p>
    
 ---
+
+### 💻 IDEs**
+<p align="left">
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36" height="36" alt="VS Code" />
+</a>
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" width="36" height="36" />
+</a>
+</p>
 
 ### 📫 **Contato**
 <p align="left">
