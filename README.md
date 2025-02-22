@@ -1,10 +1,11 @@
-# Olá! 👋 Bem-vindo ao meu perfil!
+# Lucas Alves de Melo Lins
 
 ## Sobre mim
+---
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP Caraguatatuba**, apaixonado por tecnologia e programação. Tenho **19 anos**, moro no **Brasil** e sou um entusiasta do desenvolvimento de sistemas! 🚀
+I'm a **Software Development** student at **IFSP Caraguatatuba**, passionate about tech and coding! 🚀 I'm **19**, from **Brazil**, and always eager to learn new technologies.
 
-Atualmente, estou focado no aprendizado de **Java** e aprimorando meus conhecimentos em **HTML, CSS, JavaScript e lógica de programação**. Também tenho experiência com **C** e estou sempre buscando aprender novas tecnologias.
+Currently, I'm focused on **Java** while sharpening my skills in **HTML, CSS, JavaScript, and logic programming**. I also have experience with **C** and love exploring new challenges!
 
 📫 **Entre em contato comigo** 
 - ✉️ E-mail: [seuemail@email.com](mailto:seuemail@email.com)
