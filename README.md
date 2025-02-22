@@ -13,15 +13,16 @@ Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades e
 <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 </p>
 
-###IDEs**
+### IDEs
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36" height="36" alt="VS Code" /></a>
-<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=9OGIyU8hrxW5&format=png&color=000000" width="36" height="36" alt="VS Code" />
+</a>
+<a href="https://netbeans.apache.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.icons8.com/?size=100&id=4djt356tq8UO&format=png&color=000000" width="36" height="36" />
+</a>
 </p>
 
-Aqui está a mesclagem das duas categorias que você pediu, com os ícones de e-mail, Twitter e LinkedIn para contato:
-
----
 
 ## 🌍 **Contato**
 <p align="left">
@@ -31,12 +32,4 @@ Aqui está a mesclagem das duas categorias que você pediu, com os ícones de e-
 <a href="mailto:seuemail@email.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" /></a>
 <a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
 </p>
-
-- ✉️ E-mail: [seuemail@email.com](mailto:seuemail@email.com)  
-- 🌍 LinkedIn: [linkedin.com/in/seuperfil](https://linkedin.com/in/seuperfil)  
-- 🐦 Twitter: [twitter.com/seuperfil](https://twitter.com/seuperfil)
-
----
-
-Agora a seção de contato está mais completa e com os ícones de LinkedIn, e-mail e Twitter! O que achou?
 ---
