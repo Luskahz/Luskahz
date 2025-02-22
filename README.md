@@ -16,10 +16,7 @@ Atualmente, estou me aprofundando em **Java**, além de aprimorar minhas habilid
 </p>
 
 
-
-<a href="https://github.com/Luskahz/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=8" alt="Top Langs" />
-</a>
+<a href="https://github.com/Luskahz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=ec4899&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
    
 </div>
