@@ -31,7 +31,7 @@ Atualmente, estou me aprofundando em <strong>Java</strong>, além de aprimorar m
 ---
 | <!-- --> | <!-- --> |
 | --- | --- |
-| [![Nome](https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=10&title_color=d0d0d0&text_color=ffffff&icon_color=d0d0d0&bg_color=242424&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/Luskahz) | 👋 Olá, sou estudante de <strong>Desenvolvimento de Software</strong> no <strong>IFSP Caraguatatuba</strong>, <br> com 19 anos e apaixonado por tecnologia! <br> Atualmente, estou me aprofundando em <strong>Java</strong>,<br> além de aprimorar minhas habilidades em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong> e <strong>Lógica de Programação</strong>. <br>Também estou me desenvolvendo em <strong>C</strong> e estou sempre buscando novos desafios e aprendizagens<br>
+| [![Nome](https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=10&title_color=d0d0d0&text_color=ffffff&icon_color=d0d0d0&bg_color=242424&hide_border=true&locale=en&custom_title=Top%20%Languages)](https://github.com/Luskahz) | ### resumo👋 Olá, sou estudante de <strong>Desenvolvimento de Software</strong> no <strong>IFSP Caraguatatuba</strong>, <br> com 19 anos e apaixonado por tecnologia! <br> Atualmente, estou me aprofundando em <strong>Java</strong>,<br> além de aprimorar minhas habilidades em <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, <strong>PHP</strong>, <strong>SQL</strong> e <strong>Lógica de Programação</strong>. <br>Também estou me desenvolvendo em <strong>C</strong> e estou sempre buscando novos desafios e aprendizagens<br>
 
 
 
