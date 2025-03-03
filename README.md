@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="mailto:lucasalvesdemelolins@gmail.com" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" /></a>
-<a href="https://linkedin.com/in/seuperfil" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
+<a href="https://linkedin.com/in/lucasalvesdemelolins" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" /></a>
 </p>
 
 ---
