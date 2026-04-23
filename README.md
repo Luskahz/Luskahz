@@ -1,4 +1,4 @@
-## Olá! Eu sou Lucas Alves de Melo Lins 👋
+## Olá! Eu sou Lucas Alves de Melo Lins 
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP - Campus Caraguatatuba**.  
 Atualmente estou me aprofundando em **Java**, além de estudar **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL**, **C** e lógica de programação.
@@ -10,9 +10,9 @@ Atualmente estou me aprofundando em **Java**, além de estudar **HTML**, **CSS**
 
 ##
 
-### 🚀 Tecnologias em desenvolvimento
+### Tecnologias em desenvolvimento
 
-<div style="display: inline_block"><br>
+<div style="display: flex"><br>
   <img align="center" alt="Lucas-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
   <img align="center" alt="Lucas-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
   <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
@@ -24,7 +24,7 @@ Atualmente estou me aprofundando em **Java**, além de estudar **HTML**, **CSS**
 
 ##
 
-### 📫 Contato
+### Contato
 
 <div>
   <a href="https://www.instagram.com/Lusk4h" target="_blank">
