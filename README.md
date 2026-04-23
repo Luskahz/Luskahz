@@ -1,73 +1,39 @@
-# Lucas Alves de Melo Lins
+## Olá! Eu sou Lucas Alves de Melo Lins 👋
 
-<table>
-  <tr>
-    <td>
-      <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&langs_count=10&title_color=d0d0d0&text_color=ffffff&icon_color=d0d0d0&bg_color=242424&hide_border=true&locale=pt-br&custom_title=Linguagens%20mais%20usadas" 
-        width="500" 
-        alt="Linguagens mais usadas"
-      />
-    </td>
-    <td>
-      <p>
-        Sou estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> no 
-        <strong>IFSP - Campus Caraguatatuba</strong>.
-      </p>
-      <p>
-        Tenho 19 anos e sou fascinado por tecnologia. Atualmente, estou me aprofundando em 
-        <strong>Java</strong> e aprimorando minhas habilidades em 
-        <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, 
-        <strong>PHP</strong>, <strong>SQL</strong> e <strong>Lógica de Programação</strong>.
-      </p>
-      <p>
-        Também estou estudando <strong>C</strong> e buscando novos desafios para evoluir 
-        como desenvolvedor.
-      </p>
-    </td>
-  </tr>
-</table>
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP - Campus Caraguatatuba**.  
+Atualmente estou me aprofundando em **Java**, além de estudar **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL**, **C** e lógica de programação.
 
----
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luskahz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luskahz&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</div>
 
-## 🚀 Tecnologias em desenvolvimento
+##
 
-<p align="left">
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-  </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://en.cppreference.com/w/c" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" />
-  </a>
-</p>
+### 🚀 Tecnologias em desenvolvimento
 
----
+<div style="display: inline_block"><br>
+  <img align="center" alt="Lucas-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
+  <img align="center" alt="Lucas-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg">
+  <img align="center" alt="Lucas-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg">
+  <img align="center" alt="Lucas-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg">
+  <img align="center" alt="Lucas-PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
+  <img align="center" alt="Lucas-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Lucas-C" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg">
+</div>
 
-## 📫 Contato
+##
 
-<p align="left">
-  <a href="https://www.instagram.com/Lusk4h" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instagram" />
+### 📫 Contato
+
+<div>
+  <a href="https://www.instagram.com/Lusk4h" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
-  <a href="mailto:lucasalvesdemelolins@gmail.com" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/24/000000/email.png" width="32" height="32" alt="Email" />
+  <a href="mailto:lucasalvesdemelolins@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/lucasalvesdemelolins" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/material-outlined/24/000000/linkedin.png" width="32" height="32" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/lucasalvesdemelolins" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-</p>
+</div>
