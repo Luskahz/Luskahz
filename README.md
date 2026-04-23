@@ -37,3 +37,9 @@ Atualmente estou me aprofundando em **Java**, além de estudar **HTML**, **CSS**
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 </div>
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Luskahz/Luskahz/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Luskahz/Luskahz/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Luskahz/Luskahz/output/github-contribution-grid-snake.svg">
+</picture>
