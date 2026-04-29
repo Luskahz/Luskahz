@@ -3,7 +3,9 @@
 ![Header](./assets/header.png)
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFSP – Campus Caraguatatuba**.  
-Tenho 19 anos e sou fascinado por tecnologia. Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades em **HTML**, **CSS**, **JavaScript**, **PHP**, **SQL**, **C** e lógica de programação.
+Tenho 19 anos. Atualmente, estou me aprofundando em **Java** e aprimorando minhas habilidades em **HTML**, **CSS**, **JavaScript**, **SQL** e lógica de programação.
+
+Meu principal forte é o Backend, porém atuo como desenvolvedor FullStack, atualmente me aprimorando em SpringBoot com java e Next.js/React/Tailwind com node
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Luskahz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
