@@ -38,22 +38,6 @@ entender isso direito e transformar em sistema — API, automação, dashboard o
   <a href="https://github.com/Luskahz/IFSP-ProjetoPortifolio-AgenteEscolar"><strong>03 / Agente Escolar</strong></a>
 </p>
 
-## `./play dev-arcade`
-
-<a href="https://luskahz.github.io/Luskahz/">
-  <img width="100%" src="./assets/arcade-banner.svg" alt="Abrir Luskahz Dev Arcade" />
-</a>
-
-O **Dev Arcade** é um projeto estático hospedado gratuitamente no GitHub Pages. Tem desafios de
-debug em Java, previsão de saída em JavaScript e consultas SQL, com tempo, combo, placar e recorde
-salvo no navegador.
-
-<p align="center">
-  <a href="https://luskahz.github.io/Luskahz/"><strong>▶ abrir o arcade</strong></a>
-  &nbsp;·&nbsp;
-  <a href="./site"><strong>ver o código</strong></a>
-</p>
-
 ## `./stack`
 
 <p>
