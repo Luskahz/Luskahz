@@ -1,0 +1,113 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
+  <title id="title">Lucas Alves — Backend e Full Stack Developer</title>
+  <desc id="description">Banner profissional em tons de azul, ciano e violeta com uma apresentação de Lucas Alves e sua principal stack.</desc>
+
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050814" />
+      <stop offset="0.52" stop-color="#0A1022" />
+      <stop offset="1" stop-color="#11102A" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#70E1F5" />
+      <stop offset="0.5" stop-color="#8BE9FD" />
+      <stop offset="1" stop-color="#A78BFA" />
+    </linearGradient>
+    <radialGradient id="cyanGlow">
+      <stop offset="0" stop-color="#22D3EE" stop-opacity=".32" />
+      <stop offset="1" stop-color="#22D3EE" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="violetGlow">
+      <stop offset="0" stop-color="#8B5CF6" stop-opacity=".28" />
+      <stop offset="1" stop-color="#8B5CF6" stop-opacity="0" />
+    </radialGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" fill="none" stroke="#94A3B8" stroke-opacity=".07" />
+    </pattern>
+    <filter id="softShadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="18" stdDeviation="24" flood-color="#000814" flood-opacity=".48" />
+    </filter>
+  </defs>
+
+  <rect width="1200" height="390" rx="28" fill="url(#background)" />
+  <rect width="1200" height="390" rx="28" fill="url(#grid)" />
+  <circle cx="1075" cy="32" r="310" fill="url(#violetGlow)" />
+  <circle cx="90" cy="388" r="270" fill="url(#cyanGlow)" />
+
+  <g opacity=".55">
+    <path d="M84 72H184" stroke="#22D3EE" stroke-width="2" />
+    <circle cx="73" cy="72" r="4" fill="#22D3EE" />
+    <circle cx="194" cy="72" r="4" fill="#A78BFA" />
+  </g>
+
+  <g font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif">
+    <text x="72" y="116" fill="#8BE9FD" font-size="15" font-weight="700" letter-spacing="3.8">LUSKAHZ / SOFTWARE DEVELOPER</text>
+    <text x="68" y="196" fill="#F8FAFC" font-size="64" font-weight="750" letter-spacing="-2">Lucas Alves</text>
+    <rect x="72" y="218" width="440" height="5" rx="2.5" fill="url(#accent)" />
+    <text x="72" y="264" fill="#CBD5E1" font-size="22" font-weight="500">Backend · Full Stack · Automação · Dados</text>
+    <text x="72" y="305" fill="#94A3B8" font-size="17">Transformando problemas operacionais em software confiável.</text>
+
+    <g transform="translate(72 334)">
+      <circle cx="7" cy="7" r="7" fill="#34D399" />
+      <circle cx="7" cy="7" r="3" fill="#D1FAE5" />
+      <text x="25" y="13" fill="#94A3B8" font-size="14" font-weight="600" letter-spacing=".8">CARAGUATATUBA · SP · BRASIL</text>
+    </g>
+  </g>
+
+  <g transform="translate(700 58)" filter="url(#softShadow)">
+    <rect width="432" height="274" rx="20" fill="#080D1B" stroke="#334155" stroke-opacity=".72" />
+    <rect width="432" height="46" rx="20" fill="#10182B" />
+    <path d="M0 46H432" stroke="#334155" stroke-opacity=".72" />
+    <circle cx="24" cy="23" r="5" fill="#FB7185" />
+    <circle cx="44" cy="23" r="5" fill="#FBBF24" />
+    <circle cx="64" cy="23" r="5" fill="#34D399" />
+    <text x="216" y="29" text-anchor="middle" fill="#64748B" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="12">lucas.profile.ts</text>
+
+    <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" font-size="15">
+      <text x="28" y="84" fill="#64748B">01</text>
+      <text x="62" y="84" fill="#C4B5FD">const</text>
+      <text x="112" y="84" fill="#E2E8F0">developer</text>
+      <text x="190" y="84" fill="#94A3B8">=</text>
+      <text x="208" y="84" fill="#E2E8F0">{</text>
+
+      <text x="28" y="118" fill="#64748B">02</text>
+      <text x="78" y="118" fill="#8BE9FD">focus</text>
+      <text x="126" y="118" fill="#94A3B8">:</text>
+      <text x="143" y="118" fill="#A7F3D0">"backend first"</text>
+      <text x="276" y="118" fill="#94A3B8">,</text>
+
+      <text x="28" y="152" fill="#64748B">03</text>
+      <text x="78" y="152" fill="#8BE9FD">builds</text>
+      <text x="134" y="152" fill="#94A3B8">:</text>
+      <text x="151" y="152" fill="#E2E8F0">[</text>
+      <text x="164" y="152" fill="#FDE68A">"APIs"</text>
+      <text x="218" y="152" fill="#94A3B8">,</text>
+      <text x="232" y="152" fill="#FDE68A">"products"</text>
+      <text x="316" y="152" fill="#E2E8F0">],</text>
+
+      <text x="28" y="186" fill="#64748B">04</text>
+      <text x="78" y="186" fill="#8BE9FD">stack</text>
+      <text x="126" y="186" fill="#94A3B8">:</text>
+      <text x="143" y="186" fill="#E2E8F0">[</text>
+      <text x="156" y="186" fill="#FDE68A">"Java"</text>
+      <text x="210" y="186" fill="#94A3B8">,</text>
+      <text x="224" y="186" fill="#FDE68A">"Next.js"</text>
+      <text x="302" y="186" fill="#E2E8F0">],</text>
+
+      <text x="28" y="220" fill="#64748B">05</text>
+      <text x="78" y="220" fill="#8BE9FD">mindset</text>
+      <text x="142" y="220" fill="#94A3B8">:</text>
+      <text x="159" y="220" fill="#A7F3D0">"ship &amp; improve"</text>
+
+      <text x="28" y="254" fill="#64748B">06</text>
+      <text x="62" y="254" fill="#E2E8F0">} satisfies</text>
+      <text x="152" y="254" fill="#C4B5FD">Engineer</text>
+      <text x="222" y="254" fill="#94A3B8">;</text>
+      <rect x="238" y="238" width="8" height="20" rx="1" fill="#8BE9FD">
+        <animate attributeName="opacity" values="1;.15;1" dur="1.25s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+
+  <rect x=".75" y=".75" width="1198.5" height="388.5" rx="27.25" fill="none" stroke="url(#accent)" stroke-opacity=".32" stroke-width="1.5" />
+</svg>
