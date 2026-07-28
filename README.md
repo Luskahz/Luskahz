@@ -12,8 +12,6 @@ Meu código normalmente começa longe do editor: uma rota atrasada, um indicador
 uma planilha repetitiva ou uma regra de negócio espalhada em cinco lugares. A parte que me interessa é
 entender isso direito e transformar em sistema — API, automação, dashboard ou produto completo.
 
-## `./activity --public`
-
 > Os números abaixo são calculados pelo próprio repositório. Atividade privada não entra e “volume de
 > código” significa bytes das linguagens nos repositórios públicos atuais — não uma contagem inventada
 > de linhas escritas.
