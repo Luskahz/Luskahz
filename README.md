@@ -8,13 +8,6 @@
   <a href="https://github.com/Luskahz"><img src="https://img.shields.io/badge/@Luskahz-111827?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
   <img src="https://img.shields.io/badge/Caraguatatuba-SP-111827?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Caraguatatuba, São Paulo" />
 </p>
-Meu código normalmente começa longe do editor: uma rota atrasada, um indicador difícil de explicar,
-uma planilha repetitiva ou uma regra de negócio espalhada em cinco lugares. A parte que me interessa é
-entender isso direito e transformar em sistema — API, automação, dashboard ou produto completo.
-
-> Os números abaixo são calculados pelo próprio repositório. Atividade privada não entra e “volume de
-> código” significa bytes das linguagens nos repositórios públicos atuais — não uma contagem inventada
-> de linhas escritas.
 
 <div align="center">
   <img width="100%" src="./assets/activity-dashboard.svg" alt="Painel automático com commits, pull requests, revisões, evolução anual e linguagens" />
