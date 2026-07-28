@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "private": true,
   "type": "module",
-  "description": "Perfil do GitHub com painel SVG gerado automaticamente a partir de dados públicos.",
+  "description": "Perfil dev com métricas públicas, carrossel SVG e arcade interativo.",
   "scripts": {
     "generate": "node src/generate-profile.mjs",
     "test": "node --test",
-    "check": "node --check src/generate-profile.mjs && node --test"
+    "check": "node --check src/generate-profile.mjs && node --check site/app.js && node --check site/game-data.js && node --test"
   },
   "engines": {
     "node": ">=20"
