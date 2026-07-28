@@ -1,0 +1,16 @@
+{
+  "name": "luskahz-profile-engine",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Perfil do GitHub com painel SVG gerado automaticamente a partir de dados públicos.",
+  "scripts": {
+    "generate": "node src/generate-profile.mjs",
+    "test": "node --test",
+    "check": "node --check src/generate-profile.mjs && node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "license": "MIT"
+}
