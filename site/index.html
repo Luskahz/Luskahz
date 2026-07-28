@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta
+      http-equiv="Content-Security-Policy"
+      content="default-src 'self'; style-src 'self'; script-src 'self'; img-src 'self' data:; connect-src 'none'; base-uri 'self'; form-action 'none'"
+    />
+    <meta
+      name="description"
+      content="Dev Arcade de Lucas Alves: desafios rápidos de Java, JavaScript e SQL."
+    />
+    <meta name="theme-color" content="#050b12" />
+    <title>Luskahz Dev Arcade</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <div class="scanlines" aria-hidden="true"></div>
+
+    <header class="topbar">
+      <a class="brand" href="./" aria-label="Início do Dev Arcade">
+        <span class="brand__prompt">&gt;_</span>
+        <span>DEV ARCADE</span>
+      </a>
+      <div class="topbar__status">
+        <span class="status-dot" aria-hidden="true"></span>
+        <span>SYSTEM ONLINE</span>
+      </div>
+    </header>
+
+    <main class="shell">
+      <section id="menu-screen" class="screen screen--active" aria-labelledby="menu-title">
+        <div class="hero-copy">
+          <p class="eyebrow">LUSKAHZ / CODE CHALLENGE</p>
+          <h1 id="menu-title">Escolha seu modo.</h1>
+          <p>
+            Três arenas, quatro alternativas e vinte segundos por rodada.
+            Aqui chute rápido perde para fundamento técnico.
+          </p>
+        </div>
+
+        <div class="hud hud--menu" aria-label="Recorde salvo neste navegador">
+          <span>LOCAL HIGH SCORE</span>
+          <strong id="menu-high-score">00000</strong>
+        </div>
+
+        <div class="mode-grid">
+          <button class="mode-card mode-card--cyan" type="button" data-mode="bug-hunt">
+            <span class="mode-card__number">01</span>
+            <span class="mode-card__title">BUG HUNT</span>
+            <span class="mode-card__stack">JAVA</span>
+            <span class="mode-card__description">
+              Exceções, coleções, igualdade e persistência.
+            </span>
+            <span class="mode-card__action">START →</span>
+          </button>
+
+          <button class="mode-card mode-card--green" type="button" data-mode="output-quest">
+            <span class="mode-card__number">02</span>
+            <span class="mode-card__title">OUTPUT QUEST</span>
+            <span class="mode-card__stack">JAVASCRIPT</span>
+            <span class="mode-card__description">
+              Event loop, coerção, closures e referências.
+            </span>
+            <span class="mode-card__action">START →</span>
+          </button>
+
+          <button class="mode-card mode-card--amber" type="button" data-mode="sql-arena">
+            <span class="mode-card__number">03</span>
+            <span class="mode-card__title">SQL ARENA</span>
+            <span class="mode-card__stack">MYSQL</span>
+            <span class="mode-card__description">
+              Agregações, joins, filtros e window functions.
+            </span>
+            <span class="mode-card__action">START →</span>
+          </button>
+
+          <button class="mode-card mode-card--violet" type="button" data-mode="mixed">
+            <span class="mode-card__number">∞</span>
+            <span class="mode-card__title">MIXED RUN</span>
+            <span class="mode-card__stack">ALL STACKS</span>
+            <span class="mode-card__description">
+              Seis desafios sorteados entre todas as arenas.
+            </span>
+            <span class="mode-card__action">START →</span>
+          </button>
+        </div>
+
+        <p class="keyboard-tip">
+          Durante a partida, use <kbd>1</kbd>–<kbd>4</kbd> para responder e
+          <kbd>Enter</kbd> para avançar.
+        </p>
+      </section>
+
+      <section id="game-screen" class="screen" aria-labelledby="challenge-title" hidden>
+        <div class="game-hud">
+          <button id="exit-button" class="ghost-button" type="button">← EXIT</button>
+          <div class="hud-stat">
+            <span>SCORE</span>
+            <strong id="score">00000</strong>
+          </div>
+          <div class="hud-stat">
+            <span>COMBO</span>
+            <strong id="streak">x0</strong>
+          </div>
+          <div class="hud-stat">
+            <span>ROUND</span>
+            <strong id="round-counter">1/4</strong>
+          </div>
+        </div>
+
+        <div class="timer" aria-label="Tempo restante">
+          <div id="timer-bar" class="timer__bar"></div>
+        </div>
+
+        <article class="challenge-card">
+          <header class="challenge-card__header">
+            <div>
+              <p id="challenge-mode" class="eyebrow">BUG HUNT / JAVA</p>
+              <h2 id="challenge-title">Carregando desafio...</h2>
+            </div>
+            <div class="timer-value"><span id="timer-value">20</span>s</div>
+          </header>
+
+          <p id="challenge-prompt" class="challenge-card__prompt"></p>
+          <pre class="code-window"><code id="challenge-code"></code></pre>
+
+          <div id="options" class="options" aria-label="Alternativas"></div>
+
+          <div id="feedback" class="feedback" aria-live="polite" hidden>
+            <strong id="feedback-title"></strong>
+            <p id="feedback-text"></p>
+          </div>
+
+          <button id="next-button" class="primary-button" type="button" hidden>
+            PRÓXIMO DESAFIO →
+          </button>
+        </article>
+      </section>
+
+      <section id="result-screen" class="screen" aria-labelledby="result-title" hidden>
+        <div class="result-card">
+          <p class="eyebrow">RUN COMPLETE</p>
+          <h2 id="result-title">Resultado compilado.</h2>
+          <div class="result-score">
+            <span>FINAL SCORE</span>
+            <strong id="final-score">00000</strong>
+          </div>
+          <p id="result-message"></p>
+          <div class="result-grid">
+            <div>
+              <span>ACERTOS</span>
+              <strong id="correct-total">0/0</strong>
+            </div>
+            <div>
+              <span>BEST COMBO</span>
+              <strong id="best-streak">x0</strong>
+            </div>
+            <div>
+              <span>HIGH SCORE</span>
+              <strong id="result-high-score">00000</strong>
+            </div>
+          </div>
+          <div class="result-actions">
+            <button id="restart-button" class="primary-button" type="button">
+              PLAY AGAIN
+            </button>
+            <button id="share-button" class="ghost-button" type="button">
+              COPY SCORE
+            </button>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer>
+      <span>NO FRAMEWORKS · NO TRACKING · LOCAL SCORE ONLY</span>
+      <a href="https://github.com/Luskahz/Luskahz">SOURCE ON GITHUB ↗</a>
+    </footer>
+  </body>
+</html>

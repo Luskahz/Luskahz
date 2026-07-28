@@ -1,123 +1,119 @@
 <div align="center">
-  <img width="100%" src="./assets/hero.svg" alt="Lucas Alves — Backend e Full Stack Developer" />
+  <img width="100%" src="./assets/hero.svg" alt="Terminal de apresentação de Lucas Alves" />
 </div>
+
+<p align="center">
+  <a href="mailto:lucasalvesdemelolins@gmail.com"><img src="https://img.shields.io/badge/email-111827?style=flat-square&logo=gmail&logoColor=22D3EE" alt="E-mail" /></a>
+  <a href="https://linkedin.com/in/lucasalvesdemelolins"><img src="https://img.shields.io/badge/linkedin-111827?style=flat-square&logo=linkedin&logoColor=22D3EE" alt="LinkedIn" /></a>
+  <a href="https://github.com/Luskahz"><img src="https://img.shields.io/badge/@Luskahz-111827?style=flat-square&logo=github&logoColor=22D3EE" alt="GitHub" /></a>
+  <img src="https://img.shields.io/badge/Caraguatatuba-SP-111827?style=flat-square&logo=googlemaps&logoColor=22D3EE" alt="Caraguatatuba, São Paulo" />
+</p>
+
+```text
+lucas@caragua:~$ cat profile.txt
+
+backend first          Java · Spring Boot · Node.js
+frontend when needed   Next.js · React · TypeScript
+where code starts      logística, dados e problema operacional real
+current quest          LogImaruí + conclusão de ADS no IFSP
+```
+
+Meu código normalmente começa longe do editor: uma rota atrasada, um indicador difícil de explicar,
+uma planilha repetitiva ou uma regra de negócio espalhada em cinco lugares. A parte que me interessa é
+entender isso direito e transformar em sistema — API, automação, dashboard ou produto completo.
+
+## `./activity --public`
+
+> Os números abaixo são calculados pelo próprio repositório. Atividade privada não entra e “volume de
+> código” significa bytes das linguagens nos repositórios públicos atuais — não uma contagem inventada
+> de linhas escritas.
 
 <div align="center">
-  <a href="mailto:lucasalvesdemelolins@gmail.com">
-    <img src="https://img.shields.io/badge/E--mail-0B1220?style=for-the-badge&logo=gmail&logoColor=8BE9FD" alt="E-mail" />
-  </a>
-  <a href="https://linkedin.com/in/lucasalvesdemelolins">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1220?style=for-the-badge&logo=linkedin&logoColor=8BE9FD" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Luskahz">
-    <img src="https://img.shields.io/badge/GitHub-0B1220?style=for-the-badge&logo=github&logoColor=8BE9FD" alt="GitHub" />
-  </a>
+  <img width="100%" src="./assets/activity-dashboard.svg" alt="Painel automático com commits, pull requests, revisões, evolução anual e linguagens" />
 </div>
 
-<br />
-
-## Sobre mim
-
-Sou estudante de **Análise e Desenvolvimento de Sistemas no IFSP** e desenvolvedor com foco em backend. Trabalho na interseção entre **software, dados e operação logística**, transformando processos reais em APIs, automações e produtos que precisam funcionar fora do slide.
-
-- Construo backends com **Java, Spring Boot, Node.js e bancos relacionais**.
-- Desenvolvo produtos web com **Next.js, React, TypeScript e Tailwind CSS**.
-- Tenho interesse especial por **arquitetura, autenticação, integrações e engenharia de dados**.
-- Estou no Litoral Norte de São Paulo, Brasil.
+## `./projects --watch`
 
 <div align="center">
-  <img width="100%" src="./assets/stack.svg" alt="Stack principal: Java, Spring Boot, TypeScript, Next.js, React, Node.js, MySQL, Docker e Tailwind CSS" />
+  <img width="100%" src="./assets/project-carousel.svg" alt="Carrossel animado com os projetos LogImaruí, Jeep Club API e Dev Arcade" />
 </div>
 
-## Projeto em destaque
+<p align="center">
+  <a href="https://github.com/Luskahz/logimarui-frontend-web"><strong>01 / LogImaruí Web</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Luskahz/logimarui-core-api"><strong>Core API</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Luskahz/logimarui-frontend-react-native"><strong>Mobile</strong></a>
+  <br />
+  <a href="https://github.com/Luskahz/jeep-club-backend"><strong>02 / Jeep Club API</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://github.com/Luskahz/IFSP-ProjetoPortifolio-AgenteEscolar"><strong>03 / Agente Escolar</strong></a>
+</p>
 
-<table>
-  <tr>
-    <td colspan="2">
-      <h3>LogImaruí — plataforma de operação logística</h3>
-      <p>
-        Ecossistema full stack criado para transformar rotinas logísticas, indicadores e regras operacionais
-        em uma plataforma integrada. O projeto reúne aplicação web, API central e cliente mobile.
-      </p>
-      <p>
-        <a href="https://github.com/Luskahz/logimarui-frontend-web"><strong>Aplicação web</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Luskahz/logimarui-core-api"><strong>Core API</strong></a>
-        &nbsp;·&nbsp;
-        <a href="https://github.com/Luskahz/logimarui-frontend-react-native"><strong>Aplicação mobile</strong></a>
-      </p>
-      <p>
-        <code>Next.js</code>
-        <code>React</code>
-        <code>TypeScript</code>
-        <code>Java</code>
-        <code>Spring Boot</code>
-        <code>MySQL</code>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>Jeep Club API</h3>
-      <p>
-        API modular para gestão de associados, dependentes, autenticação, permissões e eventos,
-        organizada com princípios de arquitetura hexagonal.
-      </p>
-      <p>
-        <a href="https://github.com/Luskahz/jeep-club-backend"><strong>Ver repositório →</strong></a>
-      </p>
-      <p>
-        <code>Java</code>
-        <code>Spring Boot</code>
-        <code>JWT</code>
-        <code>JPA</code>
-        <code>MySQL</code>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>Agente Escolar</h3>
-      <p>
-        Sistema acadêmico para administrar alunos, professores, cursos, turmas e disciplinas
-        por meio de uma API REST e interface web.
-      </p>
-      <p>
-        <a href="https://github.com/Luskahz/IFSP-ProjetoPortifolio-AgenteEscolar"><strong>Ver repositório →</strong></a>
-      </p>
-      <p>
-        <code>Node.js</code>
-        <code>Express</code>
-        <code>Prisma</code>
-        <code>MySQL</code>
-      </p>
-    </td>
-  </tr>
-</table>
+## `./play dev-arcade`
 
-## GitHub em números
+<a href="https://luskahz.github.io/Luskahz/">
+  <img width="100%" src="./assets/arcade-banner.svg" alt="Abrir Luskahz Dev Arcade" />
+</a>
 
-<div align="center">
-  <img width="100%" src="./assets/github-overview.svg" alt="Resumo automático dos projetos públicos de Lucas no GitHub" />
-</div>
+O **Dev Arcade** é um projeto estático hospedado gratuitamente no GitHub Pages. Tem desafios de
+debug em Java, previsão de saída em JavaScript e consultas SQL, com tempo, combo, placar e recorde
+salvo no navegador.
+
+<p align="center">
+  <a href="https://luskahz.github.io/Luskahz/"><strong>▶ abrir o arcade</strong></a>
+  &nbsp;·&nbsp;
+  <a href="./site"><strong>ver o código</strong></a>
+</p>
+
+## `./stack`
+
+<p>
+  <code>Java 21</code>
+  <code>Spring Boot</code>
+  <code>Spring Security</code>
+  <code>JWT</code>
+  <code>JPA</code>
+  <code>Node.js</code>
+  <code>TypeScript</code>
+  <code>Next.js</code>
+  <code>React</code>
+  <code>MySQL</code>
+  <code>Docker</code>
+  <code>Power BI</code>
+</p>
+
+```java
+public final class CurrentFocus {
+    private final String architecture = "modular, testable, observable";
+    private final String product = "software que resolve operação real";
+    private final boolean finished = false; // ship, measure, improve
+}
+```
 
 <details>
   <summary><strong>Como este perfil funciona por trás</strong></summary>
   <br />
   <p>
-    Este README também é um pequeno projeto: um script Node.js consulta somente dados públicos
-    da API do GitHub, calcula as métricas e gera o painel SVG acima. Um workflow testa e atualiza
-    o arquivo automaticamente, sem serviço pago e sem dependências de produção.
+    Um gerador Node.js consulta a API pública do GitHub, soma atividade indexada, calcula a
+    distribuição de linguagens e produz o SVG do painel. Os testes usam apenas o runner nativo
+    do Node. O workflow atualiza os números semanalmente.
   </p>
   <p>
-    <a href="./src/generate-profile.mjs"><strong>Ver o gerador</strong></a>
+    O carrossel é um SVG animado porque o GitHub remove JavaScript do README. O jogo interativo
+    fica no GitHub Pages e também não usa framework nem serviço pago.
+  </p>
+  <p>
+    <a href="./src/generate-profile.mjs"><strong>gerador</strong></a>
     &nbsp;·&nbsp;
-    <a href="./test/generate-profile.test.mjs"><strong>Ver os testes</strong></a>
+    <a href="./test/generate-profile.test.mjs"><strong>testes</strong></a>
     &nbsp;·&nbsp;
-    <a href="./.github/workflows/update-profile.yml"><strong>Ver a automação</strong></a>
+    <a href="./.github/workflows/update-profile.yml"><strong>automação das métricas</strong></a>
+    &nbsp;·&nbsp;
+    <a href="./.github/workflows/deploy-arcade.yml"><strong>deploy do arcade</strong></a>
   </p>
 </details>
 
 <br />
 
-<div align="center">
-  <sub>Construindo software com contexto, regra de negócio e responsabilidade técnica.</sub>
-</div>
+<p align="center"><sub>read the problem · model the rule · ship the code · measure the result</sub></p>
