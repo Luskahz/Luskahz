@@ -20,8 +20,6 @@ entender isso direito e transformar em sistema — API, automação, dashboard o
   <img width="100%" src="./assets/activity-dashboard.svg" alt="Painel automático com commits, pull requests, revisões, evolução anual e linguagens" />
 </div>
 
-## `./projects --watch`
-
 <div align="center">
   <img width="100%" src="./assets/project-carousel.svg" alt="Carrossel animado com os projetos LogImaruí, Jeep Club API e Dev Arcade" />
 </div>
