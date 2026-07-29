@@ -14,7 +14,7 @@
 </div>
 
 <div align="center">
-  <img width="100%" src="./assets/project-carousel.svg" alt="Carrossel animado com os projetos LogImaruí, Jeep Club API e Dev Arcade" />
+  <img width="100%" src="./assets/project-carousel.svg" alt="Carrossel animado com os projetos LogImaruí, Jeep Club API e Agente Escolar" />
 </div>
 
 <p align="center">
@@ -63,8 +63,7 @@ public final class CurrentFocus {
     do Node. O workflow atualiza os números semanalmente.
   </p>
   <p>
-    O carrossel é um SVG animado porque o GitHub remove JavaScript do README. O jogo interativo
-    fica no GitHub Pages e também não usa framework nem serviço pago.
+    O carrossel é um SVG animado porque o GitHub remove JavaScript do README.
   </p>
   <p>
     <a href="./src/generate-profile.mjs"><strong>gerador</strong></a>
@@ -72,8 +71,6 @@ public final class CurrentFocus {
     <a href="./test/generate-profile.test.mjs"><strong>testes</strong></a>
     &nbsp;·&nbsp;
     <a href="./.github/workflows/update-profile.yml"><strong>automação das métricas</strong></a>
-    &nbsp;·&nbsp;
-    <a href="./.github/workflows/deploy-arcade.yml"><strong>deploy do arcade</strong></a>
   </p>
 </details>
 
