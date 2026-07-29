@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title description">
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title description">
   <title id="title">Terminal de apresentação de Lucas Alves</title>
   <desc id="description">Interface de terminal com informações sobre Lucas, seu foco em backend e seus projetos atuais.</desc>
 
@@ -23,9 +23,9 @@
     </filter>
   </defs>
 
-  <rect width="1200" height="420" rx="18" fill="url(#screen)" />
-  <rect width="1200" height="420" rx="18" fill="url(#grid)" />
-  <rect x="1" y="1" width="1198" height="418" rx="17" fill="none" stroke="#1E3A4A" stroke-width="2" />
+  <rect width="1200" height="480" rx="18" fill="url(#screen)" />
+  <rect width="1200" height="480" rx="18" fill="url(#grid)" />
+  <rect x="1" y="1" width="1198" height="478" rx="17" fill="none" stroke="#1E3A4A" stroke-width="2" />
 
   <g font-family="DejaVu Sans Mono, Courier New, monospace">
     <rect x="1" y="1" width="1198" height="48" rx="17" fill="#0B1621" />
@@ -67,8 +67,8 @@
     </g>
 
     <g transform="translate(760 76)">
-      <rect width="384" height="286" rx="12" fill="#071019" stroke="#1E3A4A" />
-      <rect x="18" y="18" width="348" height="250" rx="8" fill="#09141E" stroke="#16303D" />
+      <rect width="384" height="356" rx="12" fill="#071019" stroke="#1E3A4A" />
+      <rect x="18" y="18" width="348" height="320" rx="8" fill="#09141E" stroke="#16303D" />
 
       <text x="38" y="48" fill="#64748B" font-size="11" letter-spacing="2">PLAYER PROFILE</text>
       <path d="M38 64H346" stroke="url(#cyanLine)" stroke-width="2" />
@@ -90,13 +90,25 @@
       <text x="154" y="175" fill="#F8FAFC" font-size="14">JAVA / SPRING / NEXT</text>
 
       <text x="38" y="211" fill="#64748B" font-size="10" letter-spacing="1.5">CURRENT QUEST</text>
-      <text x="38" y="234" fill="#F8FAFC" font-size="14">SHIP LOGIMARUÍ · FINISH ADS</text>
-      <rect x="38" y="250" width="308" height="7" rx="3.5" fill="#142733" />
-      <rect x="38" y="250" width="231" height="7" rx="3.5" fill="url(#cyanLine)" />
-      <text x="346" y="267" text-anchor="end" fill="#64748B" font-size="9">KEEP BUILDING</text>
+
+      <text x="38" y="234" fill="#F8FAFC" font-size="12">FINISH ADS</text>
+      <!-- ADS_DAYS -->
+      <text x="346" y="234" text-anchor="end" fill="#94A3B8" font-size="10">155 DAYS LEFT</text>
+      <!-- /ADS_DAYS -->
+      <rect x="38" y="245" width="308" height="7" rx="3.5" fill="#142733" />
+      <rect id="adsProgress" x="38" y="245" width="255.71" height="7" rx="3.5" fill="url(#cyanLine)" />
+      <!-- ADS_PERCENT -->
+      <text x="346" y="264" text-anchor="end" fill="#64748B" font-size="9">83.0% COMPLETE</text>
+      <!-- /ADS_PERCENT -->
+
+      <text x="38" y="288" fill="#F8FAFC" font-size="12">SHIP LOGIMARUÍ</text>
+      <text x="346" y="288" text-anchor="end" fill="#94A3B8" font-size="10">15.0% COMPLETE</text>
+      <rect x="38" y="299" width="308" height="7" rx="3.5" fill="#142733" />
+      <rect x="38" y="299" width="46.2" height="7" rx="3.5" fill="url(#cyanLine)" />
+      <text x="346" y="318" text-anchor="end" fill="#64748B" font-size="9">KEEP BUILDING</text>
     </g>
 
-    <text x="54" y="397" fill="#475569" font-size="10">[ README MODE ]</text>
-    <text x="1146" y="397" text-anchor="end" fill="#475569" font-size="10">PUBLIC BUILD · NO FAKE METRICS</text>
+    <text x="54" y="457" fill="#475569" font-size="10">[ README MODE ]</text>
+    <text x="1146" y="457" text-anchor="end" fill="#475569" font-size="10">PUBLIC BUILD · NO FAKE METRICS</text>
   </g>
 </svg>
