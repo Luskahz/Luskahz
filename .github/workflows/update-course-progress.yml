@@ -1,0 +1,48 @@
+name: Atualizar progresso do curso
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 03:17 UTC corresponde a 00:17 em America/Sao_Paulo.
+    - cron: "17 3 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-course-progress
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      TZ: America/Sao_Paulo
+
+    steps:
+      - name: Baixar o repositório
+        uses: actions/checkout@v4
+        with:
+          ref: master
+
+      - name: Configurar Node.js LTS
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Atualizar progresso do curso
+        run: node scripts/update-progress.js
+
+      - name: Publicar somente quando houver mudança
+        run: |
+          if git diff --quiet -- assets/hero.svg; then
+            echo "O progresso já está atualizado."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -- assets/hero.svg
+          git commit -m "chore: update course progress"
+          git push
