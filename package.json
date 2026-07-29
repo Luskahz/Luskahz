@@ -5,9 +5,11 @@
   "type": "module",
   "description": "Perfil dev com métricas públicas, carrossel SVG e arcade interativo.",
   "scripts": {
-    "generate": "node src/generate-profile.mjs",
+    "generate": "npm run generate:profile && npm run generate:commits",
+    "generate:profile": "node src/generate-profile.mjs",
+    "generate:commits": "node src/generate-commit-pulse.mjs",
     "test": "node --test",
-    "check": "node --check src/generate-profile.mjs && node --check site/app.js && node --check site/game-data.js && node --test"
+    "check": "node --check src/generate-profile.mjs && node --check src/generate-commit-pulse.mjs && node --check site/app.js && node --check site/game-data.js && node --test"
   },
   "engines": {
     "node": ">=20"

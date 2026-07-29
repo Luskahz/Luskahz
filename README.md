@@ -14,6 +14,10 @@
 </div>
 
 <div align="center">
+  <img width="100%" src="./assets/commit-pulse.svg" alt="Mapa automático dos commits públicos de Lucas nos últimos 365 dias" />
+</div>
+
+<div align="center">
   <img width="100%" src="./assets/project-carousel.svg" alt="Carrossel animado com os projetos LogImaruí, Jeep Club API e Agente Escolar" />
 </div>
 
@@ -59,8 +63,8 @@ public final class CurrentFocus {
   <br />
   <p>
     Um gerador Node.js consulta a API pública do GitHub, soma atividade indexada, calcula a
-    distribuição de linguagens e produz o SVG do painel. Os testes usam apenas o runner nativo
-    do Node. O workflow atualiza os números semanalmente.
+    distribuição de linguagens e produz os SVGs do painel e do mapa diário de commits. Os testes
+    usam apenas o runner nativo do Node. O workflow atualiza os números diariamente.
   </p>
   <p>
     O carrossel é um SVG animado porque o GitHub remove JavaScript do README.
