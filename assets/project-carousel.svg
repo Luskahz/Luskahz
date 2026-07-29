@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
   <title id="title">Carrossel animado de projetos</title>
-  <desc id="description">Apresentação alternada dos projetos LogImaruí, Jeep Club API e Dev Arcade.</desc>
+  <desc id="description">Apresentação alternada dos projetos LogImaruí, Jeep Club API e Agente Escolar.</desc>
 
   <defs>
     <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
@@ -129,41 +129,43 @@
   <g opacity="0">
     <animate attributeName="opacity" values="0;0;0;0;1;1;0" keyTimes="0;0.30;0.333;0.633;0.666;0.966;1" dur="18s" repeatCount="indefinite" />
     <g transform="translate(48 82)">
-      <text class="mono label">03 / PLAYGROUND</text>
-      <text y="52" class="sans" fill="#F8FAFC" font-size="38" font-weight="750">Dev Arcade</text>
-      <text y="87" class="sans body">Um perfil de desenvolvedor que também tem botão de jogar.</text>
-      <text y="114" class="sans body">Desafios curtos de Java, JavaScript e SQL direto no navegador.</text>
+      <text class="mono label">03 / GROUP PROJECT</text>
+      <text y="52" class="sans" fill="#F8FAFC" font-size="38" font-weight="750">Agente Escolar</text>
+      <text y="87" class="sans body">Sistema acadêmico desenvolvido em grupo no IFSP.</text>
+      <text y="114" class="sans body">API REST para alunos, professores, disciplinas, cursos e turmas.</text>
 
       <g transform="translate(0 146)" class="sans">
-        <rect width="72" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
-        <text x="36" y="20" text-anchor="middle" class="chip">HTML</text>
-        <rect x="84" width="68" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
-        <text x="118" y="20" text-anchor="middle" class="chip">CSS</text>
-        <rect x="164" width="106" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
-        <text x="217" y="20" text-anchor="middle" class="chip">JavaScript</text>
-        <rect x="282" width="96" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
-        <text x="330" y="20" text-anchor="middle" class="chip">No deps</text>
+        <rect width="84" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
+        <text x="42" y="20" text-anchor="middle" class="chip">Node.js</text>
+        <rect x="96" width="86" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
+        <text x="139" y="20" text-anchor="middle" class="chip">Express</text>
+        <rect x="194" width="102" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
+        <text x="245" y="20" text-anchor="middle" class="chip">Prisma ORM</text>
+        <rect x="308" width="82" height="30" rx="7" fill="#0C1C27" stroke="#1E3A4A" />
+        <text x="349" y="20" text-anchor="middle" class="chip">MySQL</text>
       </g>
 
-      <text y="226" class="mono" fill="#FBBF24" font-size="12">DEPLOY: GITHUB PAGES / FREE</text>
+      <text y="226" class="mono" fill="#FBBF24" font-size="12">SCOPE: ACADEMIC CRUD / REST API</text>
     </g>
 
     <g transform="translate(700 82)" class="mono">
       <rect width="442" height="222" rx="12" fill="#07131C" stroke="#1E3A4A" />
-      <text x="24" y="34" class="label">SELECT MODE</text>
-      <g transform="translate(26 60)">
-        <rect width="390" height="38" rx="6" fill="#0B1A24" stroke="#22D3EE" />
-        <text x="18" y="24" fill="#22D3EE" font-size="11">01</text>
-        <text x="58" y="24" fill="#F8FAFC" font-size="11">BUG HUNT</text>
-        <text x="364" y="24" text-anchor="end" fill="#64748B" font-size="9">JAVA</text>
-        <rect y="50" width="390" height="38" rx="6" fill="#0B1A24" stroke="#34D399" />
-        <text x="18" y="74" fill="#34D399" font-size="11">02</text>
-        <text x="58" y="74" fill="#F8FAFC" font-size="11">OUTPUT QUEST</text>
-        <text x="364" y="74" text-anchor="end" fill="#64748B" font-size="9">JAVASCRIPT</text>
-        <rect y="100" width="390" height="38" rx="6" fill="#0B1A24" stroke="#FBBF24" />
-        <text x="18" y="124" fill="#FBBF24" font-size="11">03</text>
-        <text x="58" y="124" fill="#F8FAFC" font-size="11">SQL ARENA</text>
-        <text x="364" y="124" text-anchor="end" fill="#64748B" font-size="9">MYSQL</text>
+      <text x="24" y="34" class="label">DOMAIN MODEL</text>
+      <g transform="translate(26 60)" fill="#0B1A24" stroke="#1E3A4A">
+        <rect width="180" height="42" rx="7" />
+        <rect x="206" width="180" height="42" rx="7" />
+        <rect y="56" width="180" height="42" rx="7" />
+        <rect x="206" y="56" width="180" height="42" rx="7" />
+        <rect y="112" width="180" height="42" rx="7" />
+        <rect x="206" y="112" width="180" height="42" rx="7" />
+      </g>
+      <g transform="translate(26 60)" fill="#CBD5E1" font-size="11">
+        <text x="16" y="26">alunos</text>
+        <text x="222" y="26">professores</text>
+        <text x="16" y="82">disciplinas</text>
+        <text x="222" y="82">cursos</text>
+        <text x="16" y="138">turmas</text>
+        <text x="222" y="138">relacionamentos</text>
       </g>
     </g>
   </g>
