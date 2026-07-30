@@ -93,12 +93,12 @@
 
       <text x="38" y="234" fill="#F8FAFC" font-size="12">FINISH ADS</text>
       <!-- ADS_DAYS -->
-      <text x="346" y="234" text-anchor="end" fill="#94A3B8" font-size="10">154 DAYS LEFT</text>
+      <text x="346" y="234" text-anchor="end" fill="#94A3B8" font-size="10">153 DAYS LEFT</text>
       <!-- /ADS_DAYS -->
       <rect x="38" y="245" width="308" height="7" rx="3.5" fill="#142733" />
-      <rect id="adsProgress" x="38" y="245" width="256.05" height="7" rx="3.5" fill="url(#cyanLine)" />
+      <rect id="adsProgress" x="38" y="245" width="256.39" height="7" rx="3.5" fill="url(#cyanLine)" />
       <!-- ADS_PERCENT -->
-      <text x="346" y="264" text-anchor="end" fill="#64748B" font-size="9">83.1% COMPLETE</text>
+      <text x="346" y="264" text-anchor="end" fill="#64748B" font-size="9">83.2% COMPLETE</text>
       <!-- /ADS_PERCENT -->
 
       <text x="38" y="288" fill="#F8FAFC" font-size="12">SHIP LOGIMARUÍ</text>
