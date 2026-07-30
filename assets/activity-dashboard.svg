@@ -37,7 +37,6 @@
   <rect x="1" y="1" width="1198" height="546" rx="17" fill="none" stroke="#1E3A4A" stroke-width="2" />
 
   <text x="48" y="31" class="eyebrow">~/ACTIVITY --PUBLIC</text>
-  <text x="48" y="58" class="title">O que o GitHub consegue provar — sem contar atividade privada</text>
   <circle cx="1140" cy="39" r="5" fill="#34D399" />
   <text x="1126" y="43" text-anchor="end" class="footer">LIVE DATA</text>
 
