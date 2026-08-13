@@ -45,7 +45,7 @@
     <g transform="translate(48 78)">
       <rect width="248" height="104" rx="10" fill="#09151F" stroke="#1E3A4A" />
       <rect width="4" height="104" rx="2" fill="#22D3EE" />
-      <text x="24" y="51" class="metric">848</text>
+      <text x="24" y="51" class="metric">853</text>
       <text x="24" y="78" class="metric-label">commits públicos indexados</text>
     </g>
     <g transform="translate(324 78)">
@@ -77,22 +77,22 @@
           <text x="146.3" y="398" text-anchor="middle" class="chart-label">2024</text>
         </g>
         <g>
-          <rect x="287.9" y="300.3" width="110.1" height="74.7" rx="5" fill="#0E7490" />
-          <rect x="287.9" y="300.3" width="110.1" height="4" rx="2" fill="#22D3EE" />
-          <text x="343.0" y="290.3" text-anchor="middle" class="chart-value">338</text>
+          <rect x="287.9" y="301.1" width="110.1" height="73.9" rx="5" fill="#0E7490" />
+          <rect x="287.9" y="301.1" width="110.1" height="4" rx="2" fill="#22D3EE" />
+          <text x="343.0" y="291.1" text-anchor="middle" class="chart-value">338</text>
           <text x="343.0" y="398" text-anchor="middle" class="chart-label">2025</text>
         </g>
         <g>
           <rect x="484.6" y="267.0" width="110.1" height="108.0" rx="5" fill="#0E7490" />
           <rect x="484.6" y="267.0" width="110.1" height="4" rx="2" fill="#22D3EE" />
-          <text x="539.7" y="257.0" text-anchor="middle" class="chart-value">489</text>
+          <text x="539.7" y="257.0" text-anchor="middle" class="chart-value">494</text>
           <text x="539.7" y="398" text-anchor="middle" class="chart-label">2026</text>
         </g>
 
   <g transform="translate(690 214)">
     <rect width="462" height="190" rx="11" fill="#08141D" stroke="#1E3A4A" />
     <text x="24" y="32" class="section">CODE FOOTPRINT</text>
-    <text x="24" y="78" class="big">3,9 MB</text>
+    <text x="24" y="78" class="big">4 MB</text>
     <text x="24" y="102" class="small">volume atual detectado por linguagens</text>
     <path d="M24 122H438" stroke="#1E3A4A" />
     <text x="24" y="151" class="big">13</text>
@@ -107,22 +107,22 @@
     <clipPath id="languageBarClip">
       <rect x="48" y="448" width="1104" height="13" rx="6.5" />
     </clipPath>
-    <g clip-path="url(#languageBarClip)"><rect x="48.00" y="448" width="603.96" height="13" fill="#F89820" /><rect x="651.96" y="448" width="344.32" height="13" fill="#F7DF1E" /><rect x="996.28" y="448" width="70.36" height="13" fill="#3178C6" /><rect x="1066.64" y="448" width="38.48" height="13" fill="#F97316" /><rect x="1105.12" y="448" width="33.90" height="13" fill="#A855F7" /><rect x="1139.03" y="448" width="12.97" height="13" fill="#64748B" /></g>
+    <g clip-path="url(#languageBarClip)"><rect x="48.00" y="448" width="598.16" height="13" fill="#F89820" /><rect x="646.16" y="448" width="340.65" height="13" fill="#F7DF1E" /><rect x="986.80" y="448" width="79.54" height="13" fill="#3178C6" /><rect x="1066.34" y="448" width="38.11" height="13" fill="#F97316" /><rect x="1104.45" y="448" width="34.70" height="13" fill="#A855F7" /><rect x="1139.15" y="448" width="12.85" height="13" fill="#64748B" /></g>
     
         <g transform="translate(48 492)">
           <circle cx="6" cy="-4" r="5" fill="#F89820" />
           <text x="19" class="language">Java</text>
-          <text x="172" class="percentage">54,7%</text>
+          <text x="172" class="percentage">54,2%</text>
         </g>
         <g transform="translate(416 492)">
           <circle cx="6" cy="-4" r="5" fill="#F7DF1E" />
           <text x="19" class="language">JavaScript</text>
-          <text x="172" class="percentage">31,2%</text>
+          <text x="172" class="percentage">30,9%</text>
         </g>
         <g transform="translate(784 492)">
           <circle cx="6" cy="-4" r="5" fill="#3178C6" />
           <text x="19" class="language">TypeScript</text>
-          <text x="172" class="percentage">6,4%</text>
+          <text x="172" class="percentage">7,2%</text>
         </g>
         <g transform="translate(48 520)">
           <circle cx="6" cy="-4" r="5" fill="#F97316" />
@@ -141,5 +141,5 @@
         </g>
 
   <text x="48" y="536" class="footer">GitHub Search + REST API · forks e repositórios arquivados não entram no volume de código</text>
-  <text x="1152" y="536" text-anchor="end" class="footer">Atualizado em 12 de ago. de 2026</text>
+  <text x="1152" y="536" text-anchor="end" class="footer">Atualizado em 13 de ago. de 2026</text>
 </svg>
