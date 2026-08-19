@@ -45,7 +45,7 @@
     <g transform="translate(48 78)">
       <rect width="248" height="104" rx="10" fill="#09151F" stroke="#1E3A4A" />
       <rect width="4" height="104" rx="2" fill="#22D3EE" />
-      <text x="24" y="51" class="metric">881</text>
+      <text x="24" y="51" class="metric">882</text>
       <text x="24" y="78" class="metric-label">commits públicos indexados</text>
     </g>
     <g transform="translate(324 78)">
@@ -77,15 +77,15 @@
           <text x="146.3" y="398" text-anchor="middle" class="chart-label">2024</text>
         </g>
         <g>
-          <rect x="287.9" y="305.1" width="110.1" height="69.9" rx="5" fill="#0E7490" />
-          <rect x="287.9" y="305.1" width="110.1" height="4" rx="2" fill="#22D3EE" />
-          <text x="343.0" y="295.1" text-anchor="middle" class="chart-value">338</text>
+          <rect x="287.9" y="305.2" width="110.1" height="69.8" rx="5" fill="#0E7490" />
+          <rect x="287.9" y="305.2" width="110.1" height="4" rx="2" fill="#22D3EE" />
+          <text x="343.0" y="295.2" text-anchor="middle" class="chart-value">338</text>
           <text x="343.0" y="398" text-anchor="middle" class="chart-label">2025</text>
         </g>
         <g>
           <rect x="484.6" y="267.0" width="110.1" height="108.0" rx="5" fill="#0E7490" />
           <rect x="484.6" y="267.0" width="110.1" height="4" rx="2" fill="#22D3EE" />
-          <text x="539.7" y="257.0" text-anchor="middle" class="chart-value">522</text>
+          <text x="539.7" y="257.0" text-anchor="middle" class="chart-value">523</text>
           <text x="539.7" y="398" text-anchor="middle" class="chart-label">2026</text>
         </g>
 
@@ -141,5 +141,5 @@
         </g>
 
   <text x="48" y="536" class="footer">GitHub Search + REST API · forks e repositórios arquivados não entram no volume de código</text>
-  <text x="1152" y="536" text-anchor="end" class="footer">Atualizado em 18 de ago. de 2026</text>
+  <text x="1152" y="536" text-anchor="end" class="footer">Atualizado em 19 de ago. de 2026</text>
 </svg>
