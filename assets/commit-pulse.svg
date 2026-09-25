@@ -78,7 +78,7 @@
       <rect data-day="2025-09-22" x="90" y="161" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-09-22: 0 commits públicos</title></rect>
       <rect data-day="2025-09-23" x="90" y="180" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-09-23: 0 commits públicos</title></rect>
       <rect data-day="2025-09-24" x="90" y="199" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-09-24: 0 commits públicos</title></rect>
-      <rect data-day="2025-09-25" x="90" y="218" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2025-09-25: 2 commits públicos</title></rect>
+      <rect data-day="2025-09-25" x="90" y="218" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-09-25: 0 commits públicos</title></rect>
       <rect data-day="2025-09-26" x="90" y="237" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-09-26: 0 commits públicos</title></rect>
       <rect data-day="2025-09-27" x="90" y="256" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-09-27: 0 commits públicos</title></rect>
       <rect data-day="2025-09-28" x="104" y="142" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-09-28: 0 commits públicos</title></rect>
@@ -442,8 +442,8 @@
       <rect data-day="2026-09-21" x="818" y="161" width="11" height="11" rx="3" fill="#0EA5B7" stroke="#0EA5B7" stroke-width=".8" opacity="1"><title>2026-09-21: 8 commits públicos</title></rect>
       <rect data-day="2026-09-22" x="818" y="180" width="11" height="11" rx="3" fill="#0EA5B7" stroke="#0EA5B7" stroke-width=".8" opacity="1"><title>2026-09-22: 13 commits públicos</title></rect>
       <rect data-day="2026-09-23" x="818" y="199" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-23: 0 commits públicos</title></rect>
-      <rect data-day="2026-09-24" x="818" y="218" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-24: 0 commits públicos</title></rect>
-      <rect data-day="2026-09-25" x="818" y="237" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-09-25: 0 commits públicos</title></rect>
+      <rect data-day="2026-09-24" x="818" y="218" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2026-09-24: 2 commits públicos</title></rect>
+      <rect data-day="2026-09-25" x="818" y="237" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-25: 0 commits públicos</title></rect>
       <rect data-day="2026-09-26" x="818" y="256" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-09-26: 0 commits públicos</title></rect>
   </g>
   <rect x="90" y="138" width="1" height="145" rx=".5" fill="#7DD3FC" opacity=".55">
@@ -451,7 +451,7 @@
     <animate attributeName="opacity" values="0;.55;0" dur="11s" repeatCount="indefinite" />
   </rect>
 
-  <text x="90" y="329" class="footer">25 DE SET → 24 DE SET</text>
+  <text x="90" y="329" class="footer">26 DE SET → 25 DE SET</text>
   <text x="617" y="329" class="legend">MENOS</text>
   <rect x="650" y="319" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" />
       <rect x="669" y="319" width="11" height="11" rx="3" fill="#0E5265" stroke="#0E5265" />
@@ -467,7 +467,7 @@
   <path d="M910 188H1134" stroke="#1E3A4A" />
 
   <text x="910" y="211" class="label">SEQUÊNCIA ATUAL</text>
-  <text x="910" y="237" class="metric-small">0 DIAS</text>
+  <text x="910" y="237" class="metric-small">1 DIAS</text>
   <text x="1040" y="211" class="label">RECORDE</text>
   <text x="1040" y="237" class="metric-small">12 DIAS</text>
 
@@ -475,8 +475,8 @@
   <text x="910" y="286" class="caption">33 commits · 29 DE MAI</text>
   <text x="1134" y="267" text-anchor="end" class="label">PULSO · 12 SEMANAS</text>
   
-      <path d="M914.0 325.0 L933.8 328.0 L953.6 325.5 L973.5 315.2 L993.3 316.7 L1013.1 310.3 L1032.9 320.6 L1052.7 322.1 L1072.5 308.8 L1092.4 304.3 L1112.2 294.0 L1132.0 317.7 L1132.0 328.0 L914 328.0 Z" fill="url(#pulseArea)" />
-      <path d="M914.0 325.0 L933.8 328.0 L953.6 325.5 L973.5 315.2 L993.3 316.7 L1013.1 310.3 L1032.9 320.6 L1052.7 322.1 L1072.5 308.8 L1092.4 304.3 L1112.2 294.0 L1132.0 317.7" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <path d="M914.0 325.0 L933.8 328.0 L953.6 325.5 L973.5 315.2 L993.3 316.7 L1013.1 310.3 L1032.9 320.6 L1052.7 322.1 L1072.5 308.8 L1092.4 304.3 L1112.2 294.0 L1132.0 316.7 L1132.0 328.0 L914 328.0 Z" fill="url(#pulseArea)" />
+      <path d="M914.0 325.0 L933.8 328.0 L953.6 325.5 L973.5 315.2 L993.3 316.7 L1013.1 310.3 L1032.9 320.6 L1052.7 322.1 L1072.5 308.8 L1092.4 304.3 L1112.2 294.0 L1132.0 316.7" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
       <circle cx="914.0" cy="325.0" r="2.2" fill="#34D399" />
       <circle cx="933.8" cy="328.0" r="2.2" fill="#34D399" />
       <circle cx="953.6" cy="325.5" r="2.2" fill="#34D399" />
@@ -488,8 +488,8 @@
       <circle cx="1072.5" cy="308.8" r="2.2" fill="#34D399" />
       <circle cx="1092.4" cy="304.3" r="2.2" fill="#34D399" />
       <circle cx="1112.2" cy="294.0" r="2.2" fill="#34D399" />
-      <circle cx="1132.0" cy="317.7" r="2.2" fill="#34D399" />
+      <circle cx="1132.0" cy="316.7" r="2.2" fill="#34D399" />
 
   <text x="40" y="375" class="footer">GitHub Commit Search · author + committer-date · somente atividade pública</text>
-  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 24 DE SET</text>
+  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 25 DE SET</text>
 </svg>
