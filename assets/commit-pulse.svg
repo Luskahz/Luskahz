@@ -73,7 +73,7 @@
   <text x="58" y="211" class="weekday">QUA</text>
   <text x="58" y="249" class="weekday">SEX</text>
   <g>
-      <rect data-day="2025-09-28" x="90" y="142" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-09-28: 0 commits públicos</title></rect>
+      <rect data-day="2025-09-28" x="90" y="142" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-09-28: 0 commits públicos</title></rect>
       <rect data-day="2025-09-29" x="90" y="161" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-09-29: 0 commits públicos</title></rect>
       <rect data-day="2025-09-30" x="90" y="180" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-09-30: 0 commits públicos</title></rect>
       <rect data-day="2025-10-01" x="90" y="199" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-10-01: 0 commits públicos</title></rect>
@@ -438,7 +438,7 @@
       <rect data-day="2026-09-25" x="804" y="237" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-25: 0 commits públicos</title></rect>
       <rect data-day="2026-09-26" x="804" y="256" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-26: 0 commits públicos</title></rect>
       <rect data-day="2026-09-27" x="818" y="142" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-27: 0 commits públicos</title></rect>
-      <rect data-day="2026-09-28" x="818" y="161" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-09-28: 0 commits públicos</title></rect>
+      <rect data-day="2026-09-28" x="818" y="161" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-09-28: 0 commits públicos</title></rect>
       <rect data-day="2026-09-29" x="818" y="180" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-09-29: 0 commits públicos</title></rect>
       <rect data-day="2026-09-30" x="818" y="199" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-09-30: 0 commits públicos</title></rect>
       <rect data-day="2026-10-01" x="818" y="218" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-10-01: 0 commits públicos</title></rect>
@@ -450,7 +450,7 @@
     <animate attributeName="opacity" values="0;.55;0" dur="11s" repeatCount="indefinite" />
   </rect>
 
-  <text x="90" y="329" class="footer">28 DE SET → 27 DE SET</text>
+  <text x="90" y="329" class="footer">29 DE SET → 28 DE SET</text>
   <text x="617" y="329" class="legend">MENOS</text>
   <rect x="650" y="319" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" />
       <rect x="669" y="319" width="11" height="11" rx="3" fill="#0E5265" stroke="#0E5265" />
@@ -490,5 +490,5 @@
       <circle cx="1132.0" cy="328.0" r="2.2" fill="#34D399" />
 
   <text x="40" y="375" class="footer">GitHub Commit Search · author + committer-date · somente atividade pública</text>
-  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 27 DE SET</text>
+  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 28 DE SET</text>
 </svg>
