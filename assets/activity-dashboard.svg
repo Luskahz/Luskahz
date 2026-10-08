@@ -45,19 +45,19 @@
     <g transform="translate(48 78)">
       <rect width="248" height="104" rx="10" fill="#09151F" stroke="#1E3A4A" />
       <rect width="4" height="104" rx="2" fill="#22D3EE" />
-      <text x="24" y="51" class="metric">1.208</text>
+      <text x="24" y="51" class="metric">1.227</text>
       <text x="24" y="78" class="metric-label">commits públicos indexados</text>
     </g>
     <g transform="translate(324 78)">
       <rect width="248" height="104" rx="10" fill="#09151F" stroke="#1E3A4A" />
       <rect width="4" height="104" rx="2" fill="#34D399" />
-      <text x="24" y="51" class="metric">120</text>
+      <text x="24" y="51" class="metric">123</text>
       <text x="24" y="78" class="metric-label">pull requests criadas</text>
     </g>
     <g transform="translate(600 78)">
       <rect width="248" height="104" rx="10" fill="#09151F" stroke="#1E3A4A" />
       <rect width="4" height="104" rx="2" fill="#A78BFA" />
-      <text x="24" y="51" class="metric">48</text>
+      <text x="24" y="51" class="metric">53</text>
       <text x="24" y="78" class="metric-label">pull requests revisadas</text>
     </g>
     <g transform="translate(876 78)">
@@ -77,22 +77,22 @@
           <text x="146.3" y="398" text-anchor="middle" class="chart-label">2024</text>
         </g>
         <g>
-          <rect x="287.9" y="332.0" width="110.1" height="43.0" rx="5" fill="#0E7490" />
-          <rect x="287.9" y="332.0" width="110.1" height="4" rx="2" fill="#22D3EE" />
-          <text x="343.0" y="322.0" text-anchor="middle" class="chart-value">338</text>
+          <rect x="287.9" y="332.9" width="110.1" height="42.1" rx="5" fill="#0E7490" />
+          <rect x="287.9" y="332.9" width="110.1" height="4" rx="2" fill="#22D3EE" />
+          <text x="343.0" y="322.9" text-anchor="middle" class="chart-value">338</text>
           <text x="343.0" y="398" text-anchor="middle" class="chart-label">2025</text>
         </g>
         <g>
           <rect x="484.6" y="267.0" width="110.1" height="108.0" rx="5" fill="#0E7490" />
           <rect x="484.6" y="267.0" width="110.1" height="4" rx="2" fill="#22D3EE" />
-          <text x="539.7" y="257.0" text-anchor="middle" class="chart-value">849</text>
+          <text x="539.7" y="257.0" text-anchor="middle" class="chart-value">868</text>
           <text x="539.7" y="398" text-anchor="middle" class="chart-label">2026</text>
         </g>
 
   <g transform="translate(690 214)">
     <rect width="462" height="190" rx="11" fill="#08141D" stroke="#1E3A4A" />
     <text x="24" y="32" class="section">CODE FOOTPRINT</text>
-    <text x="24" y="78" class="big">6,7 MB</text>
+    <text x="24" y="78" class="big">6,9 MB</text>
     <text x="24" y="102" class="small">volume atual detectado por linguagens</text>
     <path d="M24 122H438" stroke="#1E3A4A" />
     <text x="24" y="151" class="big">15</text>
@@ -107,32 +107,32 @@
     <clipPath id="languageBarClip">
       <rect x="48" y="448" width="1104" height="13" rx="6.5" />
     </clipPath>
-    <g clip-path="url(#languageBarClip)"><rect x="48.00" y="448" width="721.14" height="13" fill="#F89820" /><rect x="769.14" y="448" width="207.39" height="13" fill="#F7DF1E" /><rect x="976.54" y="448" width="121.84" height="13" fill="#3178C6" /><rect x="1098.37" y="448" width="24.31" height="13" fill="#F97316" /><rect x="1122.69" y="448" width="20.59" height="13" fill="#A855F7" /><rect x="1143.28" y="448" width="8.72" height="13" fill="#64748B" /></g>
+    <g clip-path="url(#languageBarClip)"><rect x="48.00" y="448" width="732.75" height="13" fill="#F89820" /><rect x="780.75" y="448" width="200.72" height="13" fill="#F7DF1E" /><rect x="981.47" y="448" width="117.92" height="13" fill="#3178C6" /><rect x="1099.38" y="448" width="23.53" height="13" fill="#F97316" /><rect x="1122.91" y="448" width="19.93" height="13" fill="#A855F7" /><rect x="1142.84" y="448" width="9.16" height="13" fill="#64748B" /></g>
     
         <g transform="translate(48 492)">
           <circle cx="6" cy="-4" r="5" fill="#F89820" />
           <text x="19" class="language">Java</text>
-          <text x="172" class="percentage">65,3%</text>
+          <text x="172" class="percentage">66,4%</text>
         </g>
         <g transform="translate(416 492)">
           <circle cx="6" cy="-4" r="5" fill="#F7DF1E" />
           <text x="19" class="language">JavaScript</text>
-          <text x="172" class="percentage">18,8%</text>
+          <text x="172" class="percentage">18,2%</text>
         </g>
         <g transform="translate(784 492)">
           <circle cx="6" cy="-4" r="5" fill="#3178C6" />
           <text x="19" class="language">TypeScript</text>
-          <text x="172" class="percentage">11,0%</text>
+          <text x="172" class="percentage">10,7%</text>
         </g>
         <g transform="translate(48 520)">
           <circle cx="6" cy="-4" r="5" fill="#F97316" />
           <text x="19" class="language">HTML</text>
-          <text x="172" class="percentage">2,2%</text>
+          <text x="172" class="percentage">2,1%</text>
         </g>
         <g transform="translate(416 520)">
           <circle cx="6" cy="-4" r="5" fill="#A855F7" />
           <text x="19" class="language">CSS</text>
-          <text x="172" class="percentage">1,9%</text>
+          <text x="172" class="percentage">1,8%</text>
         </g>
         <g transform="translate(784 520)">
           <circle cx="6" cy="-4" r="5" fill="#64748B" />
@@ -141,5 +141,5 @@
         </g>
 
   <text x="48" y="536" class="footer">GitHub Search + REST API · forks e repositórios arquivados não entram no volume de código</text>
-  <text x="1152" y="536" text-anchor="end" class="footer">Atualizado em 7 de out. de 2026</text>
+  <text x="1152" y="536" text-anchor="end" class="footer">Atualizado em 8 de out. de 2026</text>
 </svg>
