@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
   <title id="title">Pulso de commits públicos de Luskahz</title>
-  <desc id="description">1.073 commits públicos distribuídos por dia nos últimos 365 dias.</desc>
+  <desc id="description">1.135 commits públicos distribuídos por dia nos últimos 365 dias.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050B12" />
@@ -74,9 +74,9 @@
   <text x="58" y="249" class="weekday">SEX</text>
   <g>
       <rect data-day="2025-10-26" x="90" y="142" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-10-26: 0 commits públicos</title></rect>
-      <rect data-day="2025-10-27" x="90" y="161" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-10-27: 0 commits públicos</title></rect>
-      <rect data-day="2025-10-28" x="90" y="180" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-10-28: 0 commits públicos</title></rect>
-      <rect data-day="2025-10-29" x="90" y="199" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-10-29: 0 commits públicos</title></rect>
+      <rect data-day="2025-10-27" x="90" y="161" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-10-27: 0 commits públicos</title></rect>
+      <rect data-day="2025-10-28" x="90" y="180" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-10-28: 0 commits públicos</title></rect>
+      <rect data-day="2025-10-29" x="90" y="199" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-10-29: 0 commits públicos</title></rect>
       <rect data-day="2025-10-30" x="90" y="218" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-10-30: 0 commits públicos</title></rect>
       <rect data-day="2025-10-31" x="90" y="237" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-10-31: 0 commits públicos</title></rect>
       <rect data-day="2025-11-01" x="90" y="256" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-11-01: 0 commits públicos</title></rect>
@@ -435,13 +435,13 @@
       <rect data-day="2026-10-20" x="804" y="180" width="11" height="11" rx="3" fill="#22D3EE" stroke="#22D3EE" stroke-width=".8" opacity="1" filter="url(#cellGlow)"><title>2026-10-20: 17 commits públicos</title></rect>
       <rect data-day="2026-10-21" x="804" y="199" width="11" height="11" rx="3" fill="#0EA5B7" stroke="#0EA5B7" stroke-width=".8" opacity="1"><title>2026-10-21: 10 commits públicos</title></rect>
       <rect data-day="2026-10-22" x="804" y="218" width="11" height="11" rx="3" fill="#22D3EE" stroke="#22D3EE" stroke-width=".8" opacity="1" filter="url(#cellGlow)"><title>2026-10-22: 16 commits públicos</title></rect>
-      <rect data-day="2026-10-23" x="804" y="237" width="11" height="11" rx="3" fill="#22D3EE" stroke="#22D3EE" stroke-width=".8" opacity="1" filter="url(#cellGlow)"><title>2026-10-23: 15 commits públicos</title></rect>
-      <rect data-day="2026-10-24" x="804" y="256" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-10-24: 0 commits públicos</title></rect>
-      <rect data-day="2026-10-25" x="818" y="142" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-10-25: 0 commits públicos</title></rect>
-      <rect data-day="2026-10-26" x="818" y="161" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-10-26: 0 commits públicos</title></rect>
-      <rect data-day="2026-10-27" x="818" y="180" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-10-27: 0 commits públicos</title></rect>
-      <rect data-day="2026-10-28" x="818" y="199" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-10-28: 0 commits públicos</title></rect>
-      <rect data-day="2026-10-29" x="818" y="218" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-10-29: 0 commits públicos</title></rect>
+      <rect data-day="2026-10-23" x="804" y="237" width="11" height="11" rx="3" fill="#22D3EE" stroke="#22D3EE" stroke-width=".8" opacity="1" filter="url(#cellGlow)"><title>2026-10-23: 31 commits públicos</title></rect>
+      <rect data-day="2026-10-24" x="804" y="256" width="11" height="11" rx="3" fill="#0EA5B7" stroke="#0EA5B7" stroke-width=".8" opacity="1"><title>2026-10-24: 14 commits públicos</title></rect>
+      <rect data-day="2026-10-25" x="818" y="142" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2026-10-25: 4 commits públicos</title></rect>
+      <rect data-day="2026-10-26" x="818" y="161" width="11" height="11" rx="3" fill="#22D3EE" stroke="#22D3EE" stroke-width=".8" opacity="1" filter="url(#cellGlow)"><title>2026-10-26: 18 commits públicos</title></rect>
+      <rect data-day="2026-10-27" x="818" y="180" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2026-10-27: 5 commits públicos</title></rect>
+      <rect data-day="2026-10-28" x="818" y="199" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2026-10-28: 5 commits públicos</title></rect>
+      <rect data-day="2026-10-29" x="818" y="218" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-10-29: 0 commits públicos</title></rect>
       <rect data-day="2026-10-30" x="818" y="237" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-10-30: 0 commits públicos</title></rect>
       <rect data-day="2026-10-31" x="818" y="256" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-10-31: 0 commits públicos</title></rect>
   </g>
@@ -450,7 +450,7 @@
     <animate attributeName="opacity" values="0;.55;0" dur="11s" repeatCount="indefinite" />
   </rect>
 
-  <text x="90" y="329" class="footer">27 DE OUT → 26 DE OUT</text>
+  <text x="90" y="329" class="footer">30 DE OUT → 29 DE OUT</text>
   <text x="617" y="329" class="legend">MENOS</text>
   <rect x="650" y="319" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" />
       <rect x="669" y="319" width="11" height="11" rx="3" fill="#0E5265" stroke="#0E5265" />
@@ -461,34 +461,34 @@
 
   <rect x="884" y="84" width="276" height="260" rx="12" fill="url(#panel)" stroke="#1E3A4A" />
   <text x="910" y="111" class="label">COMMITS PÚBLICOS</text>
-  <text x="910" y="153" class="metric">1.073</text>
-  <text x="910" y="172" class="caption">171 dias ativos · média 6,3 por dia ativo</text>
+  <text x="910" y="153" class="metric">1.135</text>
+  <text x="910" y="172" class="caption">176 dias ativos · média 6,4 por dia ativo</text>
   <path d="M910 188H1134" stroke="#1E3A4A" />
 
   <text x="910" y="211" class="label">SEQUÊNCIA ATUAL</text>
-  <text x="910" y="237" class="metric-small">0 DIAS</text>
+  <text x="910" y="237" class="metric-small">16 DIAS</text>
   <text x="1040" y="211" class="label">RECORDE</text>
-  <text x="1040" y="237" class="metric-small">13 DIAS</text>
+  <text x="1040" y="237" class="metric-small">16 DIAS</text>
 
   <text x="910" y="267" class="label">PICO</text>
   <text x="910" y="286" class="caption">38 commits · 27 DE SET</text>
   <text x="1134" y="267" text-anchor="end" class="label">PULSO · 12 SEMANAS</text>
   
-      <path d="M914.0 313.8 L933.8 322.1 L953.6 323.3 L973.5 312.6 L993.3 309.0 L1013.1 296.8 L1032.9 311.0 L1052.7 298.7 L1072.5 316.1 L1092.4 306.3 L1112.2 294.0 L1132.0 328.0 L1132.0 328.0 L914 328.0 Z" fill="url(#pulseArea)" />
-      <path d="M914.0 313.8 L933.8 322.1 L953.6 323.3 L973.5 312.6 L993.3 309.0 L1013.1 296.8 L1032.9 311.0 L1052.7 298.7 L1072.5 316.1 L1092.4 306.3 L1112.2 294.0 L1132.0 328.0" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
-      <circle cx="914.0" cy="313.8" r="2.2" fill="#34D399" />
-      <circle cx="933.8" cy="322.1" r="2.2" fill="#34D399" />
-      <circle cx="953.6" cy="323.3" r="2.2" fill="#34D399" />
-      <circle cx="973.5" cy="312.6" r="2.2" fill="#34D399" />
-      <circle cx="993.3" cy="309.0" r="2.2" fill="#34D399" />
-      <circle cx="1013.1" cy="296.8" r="2.2" fill="#34D399" />
-      <circle cx="1032.9" cy="311.0" r="2.2" fill="#34D399" />
-      <circle cx="1052.7" cy="298.7" r="2.2" fill="#34D399" />
-      <circle cx="1072.5" cy="316.1" r="2.2" fill="#34D399" />
-      <circle cx="1092.4" cy="306.3" r="2.2" fill="#34D399" />
+      <path d="M914.0 317.4 L933.8 323.6 L953.6 324.5 L973.5 316.6 L993.3 313.9 L1013.1 304.8 L1032.9 315.4 L1052.7 306.3 L1072.5 319.2 L1092.4 311.9 L1112.2 294.0 L1132.0 318.6 L1132.0 328.0 L914 328.0 Z" fill="url(#pulseArea)" />
+      <path d="M914.0 317.4 L933.8 323.6 L953.6 324.5 L973.5 316.6 L993.3 313.9 L1013.1 304.8 L1032.9 315.4 L1052.7 306.3 L1072.5 319.2 L1092.4 311.9 L1112.2 294.0 L1132.0 318.6" fill="none" stroke="#22D3EE" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" />
+      <circle cx="914.0" cy="317.4" r="2.2" fill="#34D399" />
+      <circle cx="933.8" cy="323.6" r="2.2" fill="#34D399" />
+      <circle cx="953.6" cy="324.5" r="2.2" fill="#34D399" />
+      <circle cx="973.5" cy="316.6" r="2.2" fill="#34D399" />
+      <circle cx="993.3" cy="313.9" r="2.2" fill="#34D399" />
+      <circle cx="1013.1" cy="304.8" r="2.2" fill="#34D399" />
+      <circle cx="1032.9" cy="315.4" r="2.2" fill="#34D399" />
+      <circle cx="1052.7" cy="306.3" r="2.2" fill="#34D399" />
+      <circle cx="1072.5" cy="319.2" r="2.2" fill="#34D399" />
+      <circle cx="1092.4" cy="311.9" r="2.2" fill="#34D399" />
       <circle cx="1112.2" cy="294.0" r="2.2" fill="#34D399" />
-      <circle cx="1132.0" cy="328.0" r="2.2" fill="#34D399" />
+      <circle cx="1132.0" cy="318.6" r="2.2" fill="#34D399" />
 
   <text x="40" y="375" class="footer">GitHub Commit Search · author + committer-date · somente atividade pública</text>
-  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 26 DE OUT</text>
+  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 29 DE OUT</text>
 </svg>
