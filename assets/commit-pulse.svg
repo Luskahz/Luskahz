@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="390" viewBox="0 0 1200 390" role="img" aria-labelledby="title description">
   <title id="title">Pulso de commits públicos de Luskahz</title>
-  <desc id="description">1.318 commits públicos distribuídos por dia nos últimos 365 dias.</desc>
+  <desc id="description">1.316 commits públicos distribuídos por dia nos últimos 365 dias.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#050B12" />
@@ -77,9 +77,9 @@
       <rect data-day="2025-11-16" x="90" y="142" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-11-16: 0 commits públicos</title></rect>
       <rect data-day="2025-11-17" x="90" y="161" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-11-17: 0 commits públicos</title></rect>
       <rect data-day="2025-11-18" x="90" y="180" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-11-18: 0 commits públicos</title></rect>
-      <rect data-day="2025-11-19" x="90" y="199" width="11" height="11" rx="3" fill="#0E5265" stroke="#0E5265" stroke-width=".8" opacity="1"><title>2025-11-19: 1 commit público</title></rect>
-      <rect data-day="2025-11-20" x="90" y="218" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-11-20: 0 commits públicos</title></rect>
-      <rect data-day="2025-11-21" x="90" y="237" width="11" height="11" rx="3" fill="#0E5265" stroke="#0E5265" stroke-width=".8" opacity="1"><title>2025-11-21: 1 commit público</title></rect>
+      <rect data-day="2025-11-19" x="90" y="199" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-11-19: 0 commits públicos</title></rect>
+      <rect data-day="2025-11-20" x="90" y="218" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-11-20: 0 commits públicos</title></rect>
+      <rect data-day="2025-11-21" x="90" y="237" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2025-11-21: 0 commits públicos</title></rect>
       <rect data-day="2025-11-22" x="90" y="256" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2025-11-22: 0 commits públicos</title></rect>
       <rect data-day="2025-11-23" x="104" y="142" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2025-11-23: 2 commits públicos</title></rect>
       <rect data-day="2025-11-24" x="104" y="161" width="11" height="11" rx="3" fill="#0EA5B7" stroke="#0EA5B7" stroke-width=".8" opacity="1"><title>2025-11-24: 8 commits públicos</title></rect>
@@ -442,16 +442,16 @@
       <rect data-day="2026-11-16" x="818" y="161" width="11" height="11" rx="3" fill="#087F91" stroke="#087F91" stroke-width=".8" opacity="1"><title>2026-11-16: 4 commits públicos</title></rect>
       <rect data-day="2026-11-17" x="818" y="180" width="11" height="11" rx="3" fill="#0EA5B7" stroke="#0EA5B7" stroke-width=".8" opacity="1"><title>2026-11-17: 11 commits públicos</title></rect>
       <rect data-day="2026-11-18" x="818" y="199" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-11-18: 0 commits públicos</title></rect>
-      <rect data-day="2026-11-19" x="818" y="218" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-11-19: 0 commits públicos</title></rect>
-      <rect data-day="2026-11-20" x="818" y="237" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-11-20: 0 commits públicos</title></rect>
-      <rect data-day="2026-11-21" x="818" y="256" width="11" height="11" rx="3" fill="#07111A" stroke="#18303D" stroke-width=".8" opacity="0.32"><title>2026-11-21: 0 commits públicos</title></rect>
+      <rect data-day="2026-11-19" x="818" y="218" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-11-19: 0 commits públicos</title></rect>
+      <rect data-day="2026-11-20" x="818" y="237" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-11-20: 0 commits públicos</title></rect>
+      <rect data-day="2026-11-21" x="818" y="256" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" stroke-width=".8" opacity="1"><title>2026-11-21: 0 commits públicos</title></rect>
   </g>
   <rect x="90" y="138" width="1" height="145" rx=".5" fill="#7DD3FC" opacity=".55">
     <animate attributeName="x" values="90;829;90" dur="11s" repeatCount="indefinite" />
     <animate attributeName="opacity" values="0;.55;0" dur="11s" repeatCount="indefinite" />
   </rect>
 
-  <text x="90" y="329" class="footer">19 DE NOV → 18 DE NOV</text>
+  <text x="90" y="329" class="footer">22 DE NOV → 21 DE NOV</text>
   <text x="617" y="329" class="legend">MENOS</text>
   <rect x="650" y="319" width="11" height="11" rx="3" fill="#0A1822" stroke="#18303D" />
       <rect x="669" y="319" width="11" height="11" rx="3" fill="#0E5265" stroke="#0E5265" />
@@ -462,12 +462,12 @@
 
   <rect x="884" y="84" width="276" height="260" rx="12" fill="url(#panel)" stroke="#1E3A4A" />
   <text x="910" y="111" class="label">COMMITS PÚBLICOS</text>
-  <text x="910" y="153" class="metric">1.318</text>
-  <text x="910" y="172" class="caption">187 dias ativos · média 7,0 por dia ativo</text>
+  <text x="910" y="153" class="metric">1.316</text>
+  <text x="910" y="172" class="caption">185 dias ativos · média 7,1 por dia ativo</text>
   <path d="M910 188H1134" stroke="#1E3A4A" />
 
   <text x="910" y="211" class="label">SEQUÊNCIA ATUAL</text>
-  <text x="910" y="237" class="metric-small">6 DIAS</text>
+  <text x="910" y="237" class="metric-small">0 DIAS</text>
   <text x="1040" y="211" class="label">RECORDE</text>
   <text x="1040" y="237" class="metric-small">19 DIAS</text>
 
@@ -491,5 +491,5 @@
       <circle cx="1132.0" cy="320.7" r="2.2" fill="#34D399" />
 
   <text x="40" y="375" class="footer">GitHub Commit Search · author + committer-date · somente atividade pública</text>
-  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 18 DE NOV</text>
+  <text x="1160" y="375" text-anchor="end" class="footer">Atualizado em 21 DE NOV</text>
 </svg>
